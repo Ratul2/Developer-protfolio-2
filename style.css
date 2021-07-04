@@ -42,3 +42,30 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+.haf-width-left{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 10px 40px gray;
+    padding-left: 20px;
+}
+.Experiences-items{
+    background: url(imges/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.edt-part-1{
+    border-left: 7px solid orange;
+    border-image:linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    height: 400px;
+}
+.edt-part-2{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    height: 400px;
+}
+footer p{
+    text-align: center;
+}
