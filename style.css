@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.flixe-contane{
+    display: flex;
+    margin-bottom: 150px;
+
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.haf-width {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.haf-width img {
+    width: 90%;
+}
+.collore-change{
+    color: orange;
+}
+.hire-button{
+    padding: 10px 40px;
+    text-decoration: none;
+    background: linear-gradient( lightsalmon, tomato);
+    color: #fff;
+    font-weight: 700;
+}
+.banner {
+    background: url(imges/first-banner.png);
+    background-repeat: no-repeat;
+}
+.Dream-Big{
+    background: url(imges/secend-banner.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
